@@ -309,6 +309,11 @@ class LORDS(KNORAE):
 
 
 if __name__ == "__main__":
+    
+    # Synthetic 2D example presenting class imbalance and overlap 
+    # to illustrate the usage of the technique and 
+    # to compare its performance to the KNORA-E, Majority voting (MJ) and 
+    # the Oracle using the F1 score
 
     import matplotlib.pyplot as plt
     import matplotlib.cm as cm
