@@ -1,2 +1,3 @@
 # lords
-Code used in the experiments of the paper entitled Local overlap reduction procedure for dynamic ensemble selection, to be presented at the IJCNN 2022
+Implementation of the LORDS technique presented in the paper entitled Local overlap reduction procedure for dynamic ensemble selection at the 2022 International Joint Conference on Neural Networks.
+
